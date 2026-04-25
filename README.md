@@ -1,11 +1,11 @@
 # Selam! Ben Emirhan Yentur 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Emirhan%20Yentur&fontSize=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Emirhan%20Yentur&fontSize=70" />
 </p>
 
 ## 🎓 Hakkımda
-**Fırat Üniversitesi - Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim.** Akademik hayatım boyunca teorik bilgiyi pratik projelerle birleştirmeye odaklandım. Özellikle **Yapay Zeka** ve **Otonom Sistemler** üzerinde derinleşiyorum.
+**Fırat Üniversitesi - Bilayar Mühendisliği 4. Sınıf Öğrencisiyim.** Akademik hayatım boyunca teorik bilgiyi pratik projelerle birleştirmeye odaklandım. Özellikle **Yapay Zeka** ve **Otonom Sistemler** üzerinde derinleşiyorum.
 
 - 🤖 **Yapay Zeka & Derin Öğrenme:** CNN, RNN ve Transformer modelleri ile görüntü işleme ve doğal dil işleme projeleri geliştirdim.
 - 🛸 **Otonom Sistemler:** İHA/Drone teknolojileri üzerinde uçuş kontrol algoritmaları ve nesne tespiti (object detection) çalışmaları yürüttüm.
@@ -33,14 +33,6 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub İstatistiklerim
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmirhanYentur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanYentur&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
